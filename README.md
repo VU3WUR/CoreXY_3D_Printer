@@ -1,1 +1,1 @@
-# CoreXY-
+# CoreXY 3D Printer
