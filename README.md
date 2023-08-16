@@ -7,4 +7,4 @@
 Prototype demo
 
 
-<img src="/image/SV.jpg" width="50%"><img src="/images/FV.jpg" width="50%">
+<img src="/Image/SV.jpg" width="50%"><img src="/images/FV.jpg" width="50%">
